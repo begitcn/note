@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "705dd4667c33b57d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b4d8f1ad116b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dbf770e6051e3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mysql/安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e813b6e1f68e2265",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d33186aeccde53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1fd23122e66cbcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84a70e15e8c89c06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e582a1ab295d836",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8268e826f051f4e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecec88ac6962ff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e21689c5ec9c2177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mysql/安装.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7658df60e8df33f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mysql/安装.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a330d0765654b6ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74d03a7bb247c549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mysql/安装.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b1fd23122e66cbcc",
+  "lastOpenFiles": [
+    "linux/Centos/修改系统时间.md",
+    "2022-11-08.md",
+    "README.md"
+  ]
+}
