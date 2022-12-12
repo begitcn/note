@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b4d8f1ad116b8c",
+        "id": "f6ae624de167d3b2",
         "type": "tabs",
         "children": [
           {
-            "id": "2dbf770e6051e3fe",
+            "id": "44127ca8852bfd18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,9 +136,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b1fd23122e66cbcc",
+  "active": "44127ca8852bfd18",
   "lastOpenFiles": [
     "linux/Centos/修改系统时间.md",
+    "mysql/安装.md",
     "2022-11-08.md",
     "README.md"
   ]
