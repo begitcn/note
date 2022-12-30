@@ -1,6 +1,7 @@
 # linux
 ```shell
-SE_PATH=/home/project/rwdb/task-supervison-sys
+#!/bin/bash
+BASE_PATH=/home/project/rwdb/task-supervison-sys
 APP_NAME=sys-service-1.0.0.jar
 #使用说明,用来提示输入参数
 usage() {
